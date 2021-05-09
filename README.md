@@ -101,7 +101,7 @@ Exercise #1
 
 
 
-    # Solution to Exercise #1 Below
+# Solution to Exercise #1 Below
 
 
 
@@ -121,11 +121,11 @@ Exercise #1
 
 
 
-    # Solution to Exercise #1
-    ````
+# Solution to Exercise #1
+````
     const changeColorButton = document.getElementById("change-text-color");
     changeColorButton.addEventListener("click", () => {
         changeColorButton.style.color = "black";
     })
-    ````
+````
 
