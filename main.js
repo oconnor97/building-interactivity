@@ -22,7 +22,6 @@ function mainFunction() {
 
 
 
-
     
 
 
@@ -137,3 +136,47 @@ function mainFunction() {
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Solutions
+// *********************************************************************
+// *********************************************************************
+// *********************************************************************
+
+
+
+// #1
+// const changeColorButton = document.getElementById("change-text-color");
+    // changeColorButton.addEventListener("click", () => {
+    //     changeColorButton.style.color = "black";
+    // })
+
+    
+    // changeColorButton.addEventListener("click", changeColor);
+    // function changeColor(el) {
+    //     el.target.style.color = "black";
+    // }
+
+
+    // const changeColor = (el) => {
+    //     el.target.style.color = "black";
+    // }
