@@ -23,7 +23,7 @@ Instructions
 
 # Exercises
 ````
-Exercise #1
+    Exercise #1
           Change the color of the text within the h1 with an id of #main-h1.
     
           1.  Select the button with an id of #change-text-color and save 
@@ -33,7 +33,7 @@ Exercise #1
 
 
 
-      Exercise #2
+    Exercise #2
           When user clicks on the change text color button the text in the button
           should change to "Hello World".
     
@@ -44,7 +44,7 @@ Exercise #1
 
 
 
-      Exercise #3
+    Exercise #3
           When user clicks on the subscribe button, an alert box should pop up 
           with the message "Thank you for subscribing".
     
@@ -55,7 +55,7 @@ Exercise #1
 
 
 
-      Exercise #4
+    Exercise #4
           When user clicks each of the buttons on the card elements with class 
           name of .card-btn the button should disappear.
     
@@ -67,7 +67,7 @@ Exercise #1
 
 
 
-      Exercise #5
+    Exercise #5
           When user enters text in the input field, if the letter "h" is entered in 
           the input field, display an alert box with the text from the input field. 
     
@@ -78,7 +78,7 @@ Exercise #1
 
 
 
-      Exercise #6
+    Exercise #6
           When user moves mouse over the words "Subscribe To Our Newletter" the text color 
           should change to red. When user moves mouse away the text color should change back to white.
     
@@ -88,9 +88,10 @@ Exercise #1
 
 
     
-     Exercise #7
+    Exercise #7
           When user clicks on the <Add div> button a new div element should be created 
           with a <p> tag containing some text.
+
           1.  Select the button with an id of #add-element and save it to a variable named addDiv.
           2.  Select the div container with an id of #add-element-section so that you are 
               able to append your new div to the page.
@@ -101,7 +102,7 @@ Exercise #1
 
 
 
-# Solution to Exercise #1 Below
+## Solution to Exercise #1 Below
 
 
 
@@ -121,8 +122,17 @@ Exercise #1
 
 
 
-# Solution to Exercise #1
+## Solution to Exercise #1
 ````
+
+
+
+
+
+
+
+
+
     const changeColorButton = document.getElementById("change-text-color");
     changeColorButton.addEventListener("click", () => {
         changeColorButton.style.color = "black";
