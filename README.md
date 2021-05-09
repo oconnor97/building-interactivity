@@ -7,8 +7,8 @@ Instructions
 * Copy the https URL from your forked repo
 * Navigate to Git Bash on your local machine and cd to a place you wish to clone this activity to work on it
 * Once where you need to be in bash, run git clone followed by the URL you copied from your forked copy of this github repository
-* Open VSCode, select File in the top right, and select Open Folder
-* Find the folder you cloned named PracticeWithFunctions and open it, then begin working in the script.js file found within the assetts folder.
+* Open VSCode, select File in the top left hand side of your screen, and select Open Folder
+* Find the folder you cloned named ` building-interactivity ` and open it, then begin working in the script.js file found within the assetts folder.
 * You will work on this exercise individually however you may reach out to your peers in your breakout rooms for help if needed. Feel free to utilize Codecademy resources, W3Schools, and anything else you find on Google.
 
 * When you are finished with the activity, submit a pull request from your fork in your own repository!
