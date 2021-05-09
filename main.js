@@ -19,22 +19,11 @@ function mainFunction() {
     //      3.  Add a function that will change the text color in the button to black.
 
 
-    // const changeColorButton = document.getElementById("change-text-color");
-    // changeColorButton.addEventListener("click", () => {
-    //     changeColorButton.style.color = "black";
-    // })
+
+
+
 
     
-    // changeColorButton.addEventListener("click", changeColor);
-    // function changeColor(el) {
-    //     el.target.style.color = "black";
-    // }
-
-
-    // const changeColor = (el) => {
-    //     el.target.style.color = "black";
-    // }
-
 
 
     // ***************************************************************************
