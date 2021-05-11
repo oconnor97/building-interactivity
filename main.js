@@ -33,6 +33,11 @@ function mainFunction() {
     //     el.target.style.color = "black";
     // }
 
+    //Solution #3
+    // document.getElementById("change-text-color").addEventListener("click", (el) => {
+    //      el.target.style.color = "black";    
+    // })
+
 
     
 
