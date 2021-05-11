@@ -27,16 +27,14 @@ function mainFunction() {
 
 
     // Solution #2
+    // const changeColorButton = document.getElementById("change-text-color");
     // changeColorButton.addEventListener("click", changeColor);
     // function changeColor(el) {
     //     el.target.style.color = "black";
     // }
 
 
-    // Solution #3
-    // const changeColor = (el) => {
-    //     el.target.style.color = "black";
-    // }
+    
 
 
 
