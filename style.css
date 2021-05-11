@@ -109,6 +109,7 @@ footer {
     min-height: 5rem;
     color: #fff;
 }
+
 @media(max-width: 768px) {
     .flex-container {
         flex-direction: column;
