@@ -24,7 +24,7 @@ Instructions
 # Exercises
 ````
     Exercise #1
-          Change the color of the text within the h1 with an id of #main-h1.
+          Change the color of the text within the button with an id of #change-text-color.
     
           1.  Select the button with an id of #change-text-color and save 
               it to a variable named changeColorButton.
