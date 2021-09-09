@@ -62,7 +62,7 @@ Instructions
           1.  Select the buttons with a class name of .card-btn and save them to a 
               variable named cardButton.
           2.  Add a click event to each button that will trigger a function which will cause the 
-              visibility property of the button clicked to be changed to hidden to black. You 
+              visibility property of the button clicked to be changed to hidden. You 
               should use some sort of loop to add the event listener to each button.
 
 
