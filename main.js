@@ -18,13 +18,13 @@ function mainFunction() {
 //      2.  Add a click event listener to the button with an id #change-text-color.
 //      3.  Add a function that will change the text color in the button to black.    
 
+    let changeColorButton = document.getElementById('change-text-color');
+    changeColorButton.addEventListener('click', () => {
+        changeColorButton.style.color = 'black';
+    })
 
-    
 
 
-
-
-    
 
 
 // ***************************************************************************
@@ -37,8 +37,10 @@ function mainFunction() {
 //      2.  Add a click event listener to the button with an id #change-text-color.
 //      3.  Add a function that will change the text in the button to "Hello World".
 
-    
-    
+    let changeTextButton = document.getElementById('change-text-color');
+    changeTextButton.addEventListener('click', () => {
+        changeColorButton.innerHTML = 'Hello World';
+    });
 
 
 
@@ -56,7 +58,10 @@ function mainFunction() {
 //          "Thank you for subscribing". 
     
     
-
+    let subscribeButton = document.getElementById('subscribe-button');
+    subscribeButton.addEventListener('click', function() {
+        alert('Thank you for subscribing');
+    });
 
         
 
@@ -74,8 +79,8 @@ function mainFunction() {
 //          visibility property of the button clicked to be changed to hidden. You 
 //          should use some sort of loop to add the event listener to each button.
 
-        
-        
+    let cardButton = document.getElementsByClassName('card-btn');
+    cardButton.addEventListener('click', )
 
 
 
